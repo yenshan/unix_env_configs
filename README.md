@@ -1,0 +1,1 @@
+# unix enviroment configs memo
